@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl?" type="text/xsl"?>
+
+<squad nick="">
+	<name></name>
+	<email></email>
+	<web></web>
+	<picture></picture>
+	<title></title>
+
+	<member id="" nick="">
+		<name></name>
+		<email></email>
+		<icq></icq>
+		<remark></remark>
+	</member>
+</squad>

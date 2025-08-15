@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl?" type="text/xsl"?>
+<!-- This file was created by SquadPro 1.2 (c) Green TIGER, 2003 -->
+<squad nick="ROC">
+<name>ROC OFP Player</name>
+<email></email>
+<web></web>
+<picture>ofplogo.paa</picture>
+<title>MUTOU</title>
+<member id="3716722" nick="MUTOU">
+<name>MUTOU</name>
+<email></email>
+<icq>QQ</icq>
+<remark></remark>
+</member>
+</squad>
