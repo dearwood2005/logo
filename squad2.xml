@@ -1,0 +1,28 @@
+<!--  Squad properties follow - change values as necessary  -->
+<!--  Keep nick short - it is displayed together with players nick  -->
+<squad nick="MT">
+<!--  Main squad name, also page title when XML is viewed in web browser  -->
+<name>MT</name>
+<!--  Squadmaster email address  -->
+<email/>
+<!--  Main web site of the squad  -->
+<web/>
+<!--  Squad picture URL (will be documented later)  -->
+<picture>ofplogo.paa</picture>
+<!--  Squad name - displayed on vehicles manned by squad members  -->
+<title>MT</title>
+<member id="3716722" nick="MUTOU">
+<!--  additonal information about this member, accessible by pressing 'P'  -->
+<!--  all this information is optional and may be set to N/A  -->
+<!--  Full name  -->
+<name>MUTOU</name>
+<!--  E-mail address  -->
+<email/>
+<!--  ICQ number  -->
+<icq/>
+<!--  short description  -->
+<remark/>
+<!--  end of additional member information  -->
+</member>
+<!--  End of squad properties  -->
+</squad>
